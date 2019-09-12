@@ -1,0 +1,66 @@
+tìm kiếm dữ liệu find() : db.thongtin.find()
+
+tìm kiếm có điều kiện : db.thongtin.find({name:"G"})
+						
+						db.thongtin.find({age:{$eq:18}},{}) 
+						
+						db.thongtin.find({age:{$gt:18}},{})
+						
+						db.thongtin.find({age:{$gt:18 , $lt:24}},{})
+
+tìm kiếm hiển thị theo field : db.thongtin.find({},{"name":1})
+
+
+đếm số lượng của kết quả tìm kiếm : db.thongtin.find().count()
+
+
+cập nhật dữ liệu trong collections :
+
+db.thongtin.update(
+   {name:"F"},
+   {$set:{age:18}},
+   {
+     upsert: false, 
+     multi: false,
+    
+   	}
+)
+
+
+
+Xóa 1 field : 
+
+
+db.thongtin.update(
+	{},
+	{$unset:{age:""}},
+	{
+	  upsert: false,
+	  multi: true,
+	}
+)
+
+Xoa 1 document :
+
+db.thongtin.remove(
+	{name:"A"},
+	{
+	  JustOne:true,
+	}
+)
+
+
+db.thongtin.remove(
+	{age:{$gt:20,$lt:25}},
+	{
+	  JustOne:true,
+	}
+)
+
+xem thoi gian thuc thi :
+db.zips.find({pop:{$lte:14218}}).explain("executionStats")
+
+
+Dùng để xóa document sau 1 khoảng thời gian : db.zips.createIndex({"state":1},{ expireAfterSeconds: 30 })
+
+

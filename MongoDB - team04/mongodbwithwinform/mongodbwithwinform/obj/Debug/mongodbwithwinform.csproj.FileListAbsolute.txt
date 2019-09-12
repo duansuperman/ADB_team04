@@ -1,0 +1,26 @@
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\bin\Debug\mongodbwithwinform.exe.config
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\bin\Debug\mongodbwithwinform.exe
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\bin\Debug\mongodbwithwinform.pdb
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\bin\Debug\DnsClient.dll
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\bin\Debug\MongoDB.Bson.dll
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\bin\Debug\MongoDB.Driver.dll
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\bin\Debug\DnsClient.xml
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\bin\Debug\MongoDB.Bson.xml
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\bin\Debug\MongoDB.Driver.xml
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\obj\Debug\mongodbwithwinform.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\obj\Debug\mongodbwithwinform.Form1.resources
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\obj\Debug\mongodbwithwinform.Form2.resources
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\obj\Debug\mongodbwithwinform.Properties.Resources.resources
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\obj\Debug\mongodbwithwinform.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\obj\Debug\mongodbwithwinform.exe
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\obj\Debug\mongodbwithwinform.pdb
+C:\Users\Admin\Desktop\MongoDB\mongodbwithwinform\mongodbwithwinform\obj\Debug\mongodbwithwinform.Form3.resources
+C:\Users\Admin\Desktop\MongoDB - team04\mongodbwithwinform\mongodbwithwinform\bin\Debug\mongodbwithwinform.exe.config
+C:\Users\Admin\Desktop\MongoDB - team04\mongodbwithwinform\mongodbwithwinform\obj\Debug\mongodbwithwinform.exe
+C:\Users\Admin\Desktop\MongoDB - team04\mongodbwithwinform\mongodbwithwinform\obj\Debug\mongodbwithwinform.pdb
